@@ -233,10 +233,12 @@ body {
 
                                 /* Reach out styles Start */
                                         .contact {
-                                            background-color: #024e76;
                                             text-align: center;
+                                            background-color: #024e76;
+                                            
                                         }
-                                        .contact h2 {color: #fce138;
+                                        .contact h2 {
+                                            color: #fce138;
                                         }
 
                                         .contact-info iframe {
@@ -252,3 +254,22 @@ body {
                                             margin: 30px 0 0 60px;
                                             color: white;
                                         }
+                                        
+                                        .contact-info h3 {
+                                            color: #fce138;
+                                            font-size: 32px;
+                                        }
+
+                                        .contact-info p,
+                                        .contact-info address {
+                                            margin: 20px 0;
+                                            line-height: 1.5;
+                                            font-size: 20px;
+                                            font-style: normal;
+                                        }
+
+                                        .contact-info a {
+                                            color: #fce138;
+                                        }
+                                        
+                                        /* Reach out styles end */
