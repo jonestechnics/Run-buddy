@@ -1,3 +1,4 @@
+
 .hero {
  background-position: bottom;
  height: auto;
@@ -30,6 +31,7 @@
   margin:  15px 0px;
  }
  .secondary-content ul {
+  
   margin:15px 20px;
  }
  .secondary-content li {
